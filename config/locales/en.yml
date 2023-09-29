@@ -30,6 +30,7 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
+  anti: "World Cup Winner"
   activerecord:
     errors:
       messages:
