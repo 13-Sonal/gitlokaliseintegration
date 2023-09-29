@@ -1,13 +1,4 @@
 de:
-  activerecord:
-    errors:
-      messages:
-        confirmation: 
-  hello: 
-  alert_messages:
-    generic: 
-    companies:
-      activate:
-      deactivate: 
-      delete:
-      
+  welcome: 
+  demo_file: 
+  ots: 
