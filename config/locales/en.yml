@@ -2,3 +2,5 @@ en:
   welcome: "Welcome to Josh"
   demo_file: "This is demo file"
   ots: "The product is out of stock"
+  buyplan: "Product has been added to byplan"
+  order: order placed
