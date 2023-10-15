@@ -9,7 +9,12 @@ en:
 buyplan: 
  complted: "Buyplan is created successfully"
  deleted: "Buyplan deleted successfully"
- assigned: "Buyplan assigned successfully" 
+ assigned: "Buyplan assigned successfully"
+
+failed:
+ transaltion: "failed translation"
+ trad: "This is traditional way to translate"
+ ease: "Translations are ease"   
 
 order: 
  placed: "Order placed successfuly"
