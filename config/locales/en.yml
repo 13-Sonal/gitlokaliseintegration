@@ -2,3 +2,15 @@ en:
   welcome: "Welcome to Josh"
   demo_file: "This is demo file"
   ots: "The product is out of stock"
+
+
+buyplan: 
+ complted: "Buyplan is created successfully"
+ deleted: "Buyplan deleted successfully"
+ assigned: "Buyplan assigned successfully" 
+
+order: 
+ placed: "Order placed successfuly"
+ deleted: "Order deleted successfully"
+ 
+   
