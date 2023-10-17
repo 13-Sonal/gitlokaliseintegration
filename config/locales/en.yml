@@ -6,7 +6,7 @@ en:
   order: order placed
 
 release: 
-  view_release: View Release (Read Only)  
+  release_view : View Release (Read Only)  
 
 
 buyplan: 
