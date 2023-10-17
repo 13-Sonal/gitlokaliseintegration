@@ -5,6 +5,9 @@ en:
   buyplan: "Product has been added to byplan"
   order: order placed
 
+release: 
+  view_release: View Release (Read Only)  
+
 
 buyplan: 
  complted: "Buyplan is created successfully"
